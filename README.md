@@ -2,7 +2,7 @@
 University dissertation project to test how augmented reality effects the accuracy of object recognition using machine learning.
 
 ## Description
-Using swift, tensorflow, COREML and ARKIT to build a machine learning based augmented reality testing application. Recognizing objects from both a photo and augmented reality, the app allows for a results comparison for analysis.
+Using Swift, tensorflow, CoreML and ARKit to build a machine learning based augmented reality testing application. Recognizing objects from both a photo and augmented reality, the app allows for a results comparison for analysis.
 
 ## Screenshots
 
