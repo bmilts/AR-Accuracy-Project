@@ -6,7 +6,7 @@ Using swift, tensorflow, COREML and ARKIT to build a machine learning based augm
 
 ## Screenshots
 
-<img src="/titlepage.png"  width="350" /> <img src="/ar.png"  width="350" /> <img src="/ml.png"  width="350" />
+<img src="/titlepage.png"  width="325" /> <img src="/ml.png"  width="325" /> <img src="/ar.png"  width="325" /> 
 
 ## Features
 
